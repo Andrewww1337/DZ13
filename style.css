@@ -1,0 +1,42 @@
+h3{
+    margin:0;
+}
+
+
+#GetCur{
+    cursor: pointer;
+}
+#NotGetCur{
+    cursor: pointer;
+}
+
+#div1{
+    display: flex;
+    background-color: rgba(173, 173, 173, 0.692);
+    width: 150px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+body{
+    background-image:url("https://cdn.jpg.wtf/futurico/6b/ca/1441023062-6bca30c67addc4d370de8ff1eefedc73.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div2{
+    background-color: rgba(173, 173, 173, 0.692);
+    width: 170px;
+    margin-left: 5px;
+    height: 110px;
+    border-radius: 5px;
+    text-align: center;
+}
+#div3{
+    background-color: rgba(173, 173, 173, 0.692);
+    height: 130px;
+    margin-left: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
